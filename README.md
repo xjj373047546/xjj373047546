@@ -1,14 +1,14 @@
 ### Hey there 
 
-Hi, I'm [MrXu](http://zzf.fan/build/), a PHP full stack developer from China and my favorite quote is: Language and imagination create civilization
+Hi, I'm [MrXu](http://1.15.77.238/build), a PHP full stack developer from China and my favorite quote is: Language and imagination create civilization
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="340" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@MrXu](http://zzf.fan/build/);
-- 📝 [Resume](http://zzf.fan/build/)
+- 📫 How to reach me: [@MrXu](http://1.15.77.238/build);
+- 📝 [Resume](http://1.15.77.238/build/usr/themes/Joe/resume/)
 
 **Languages and Tools:**  
 
